@@ -1,3 +1,27 @@
+# CarHub
+
+Welcome to CarHub, a frontend application built with Next.js that showcases a collection of cars sourced from RapidAPI. With CarHub, users can explore various car models, search for specific cars, and apply filters to refine their search. The application is styled using Tailwind CSS and features a responsive design for seamless browsing across devices.
+
+![carshow-app](https://github.com/TariqKichawele/car-showcase/assets/105932024/49ac3545-8d2f-4945-9e26-1fc357162924)
+![Screenshot 2024-05-13 at 11 22 42 AM](https://github.com/TariqKichawele/car-showcase/assets/105932024/b9e3b29c-d94c-4d47-9797-d283f9776adf)
+
+**Technologies Used**
+
+**Frontend:**
+Next.js: A React framework for building server-side rendered (SSR) and static web applications.
+Tailwind CSS: A utility-first CSS framework for building responsive web interfaces.
+
+**API Integration:**
+RapidAPI: A platform that allows developers to discover, connect to, and consume APIs for various services and data sources.
+
+**Features**
+
+Car Collection Showcase: Browse through a collection of cars with detailed information and images.
+Search Functionality: Search for specific car models or manufacturers using the search bar.
+Filtering: Apply filters such as car make, model year, price range, and more to refine search results.
+Responsive Design: Enjoy a seamless browsing experience on desktop, tablet, and mobile devices.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
