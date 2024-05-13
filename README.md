@@ -16,10 +16,17 @@ RapidAPI: A platform that allows developers to discover, connect to, and consume
 
 **Features**
 
-Car Collection Showcase: Browse through a collection of cars with detailed information and images.
-Search Functionality: Search for specific car models or manufacturers using the search bar.
-Filtering: Apply filters such as car make, model year, price range, and more to refine search results.
-Responsive Design: Enjoy a seamless browsing experience on desktop, tablet, and mobile devices.
+**Car Collection Showcase:** 
+Browse through a collection of cars with detailed information and images.
+
+**Search Functionality:** 
+Search for specific car models or manufacturers using the search bar.
+
+**Filtering:** 
+Apply filters such as car make, model year, price range, and more to refine search results.
+
+**Responsive Design:** 
+Enjoy a seamless browsing experience on desktop, tablet, and mobile devices.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
